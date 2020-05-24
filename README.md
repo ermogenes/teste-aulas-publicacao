@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+# Obrigado, Dev C#!
 
-You can use the [editor on GitHub](https://github.com/ermogenes/teste-aulas-publicacao/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Este programa foi criado para a aula de publicação e distribuição do Dev C#.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Logo](logo.png)
 
-### Markdown
+## Funcionalidade
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+O programa exibe:
 
-```markdown
-Syntax highlighted code block
+```
+   ___  _          _                 _        
+  / _ \| |__  _ __(_) __ _  __ _  __| | ___
+ | | | | '_ \| '__| |/ _` |/ _` |/ _` |/ _ \
+ | |_| | |_) | |  | | (_| | (_| | (_| | (_) |
+  \___/|_.__/|_|  |_|\__, |\__,_|\__,_|\___( )
+                     |___/                 |/ 
 
-# Header 1
-## Header 2
-### Header 3
+                                                        _..._                      ___   
+_______                                              .-'_..._''.                .'/   \
+\  ___ `'.         __.....__   .----.     .----.   .' .'      '.\              / /     \ 
+ ' |--.\  \    .-''         '.  \    \   /    /   / .'                /|  /|   | |     |
+ | |    \  '  /     .-''"'-.  `. '   '. /'   /   . '              ___//__//__  | |     |
+ | |     |  '/     /________\   \|    |'    /    | |             '--//--//---' |/`.   .' 
+ | |     |  ||                  ||    ||    |    | |            ___//__//__     `.|   |
+ | |     ' .'\    .-------------''.   `'   .'    . '           '--//--//---'     ||___|
+ | |___.' /'  \    '-.____...---. \        /      \ '.          .|/  |/          |/___/  
+/_______.'/    `.             .'   \      /        '. `._____.-'/                .'.--.
+\_______|/       `''-...... -'      '----'           `-.______ /                | |    |
+                                                              `                 \_\    / 
+                                                                                 `''--'
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Pressione uma tecla para finalizar...
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## _Screenshot_
 
-### Jekyll Themes
+![Tela](tela.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ermogenes/teste-aulas-publicacao/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Download
 
-### Support or Contact
+[🗃 Arquivo `.zip` com a versão portável](dist/teste-aulas-publicacao.zip)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Para executar:
+
+* `dotnet teste-aulas-publicacao.dll`
+
+## Agradecimentos
+
+* [Figgle](https://github.com/drewnoakes/figgle)
+* [Etec Adolpho Berezin](http://eteab.com.br)
+* [Prof. Ermogenes](https://github.com/ermogenes)
+* [Dev C#](https://github.com/ermogenes/aulas-programacao-csharp)
+
+---
+Todos os direitos reservados. PIRATARIA É CRIME.
